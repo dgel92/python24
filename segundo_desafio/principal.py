@@ -1,8 +1,8 @@
-from segundo_desafio import administracion
+import administracion
 
 
 def main():
-    print("bienvenido")
+    print("Bienvenido")
     administracion.main()
 
 
